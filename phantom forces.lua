@@ -1,0 +1,1 @@
+Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/CNF-RDev/PF-Hack/main/main.lua"))()

